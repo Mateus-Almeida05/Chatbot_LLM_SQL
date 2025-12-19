@@ -1,5 +1,8 @@
 # **Chatbot with SQLite, LangChain and Hugging Face**
 
+<img width="832" height="560" alt="image" src="https://github.com/user-attachments/assets/8315a8a8-d2bb-4b5c-8d57-01626b520cdf" />
+
+
 ## **1\. Introduction**
 
 This project implements a chatbot capable of interpreting natural language questions, accessing information from a SQLite database, and returning clear and friendly answers.  
